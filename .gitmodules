@@ -1,0 +1,39 @@
+[submodule "pack/pda/start/vim-fugitive"]
+	path = pack/pda/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/pda/start/ctrlp.vim"]
+	path = pack/pda/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "pack/pda/start/nerdtree"]
+	path = pack/pda/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/pda/start/syntastic"]
+	path = pack/pda/start/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "pack/pda/start/vim-surround"]
+	path = pack/pda/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/pda/start/vim-colors-solarized"]
+	path = pack/pda/start/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "pack/pda/start/vim-airline"]
+	path = pack/pda/start/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "pack/pda/start/tagbar"]
+	path = pack/pda/start/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "pack/pda/start/nerdcommenter"]
+	path = pack/pda/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "pack/pda/start/vim-gutter"]
+	path = pack/pda/start/vim-gutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/pda/start/vim-airline-themes"]
+	path = pack/pda/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "pack/pda/start/vim-markdown"]
+	path = pack/pda/start/vim-markdown
+	url = https://github.com/tpope/vim-markdown
+[submodule "pack/pda/start/jellybeans"]
+	path = pack/pda/start/jellybeans
+	url = https://github.com/nanotech/jellybeans.vim.git
