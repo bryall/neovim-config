@@ -14,21 +14,16 @@ set colorcolumn=81
 " show line numbers
 set number
 
-" Toggle Showing/Hiding Whitespaces
-
-" Toggle Showing and Hiding WHitespace characters
-nmap <leader>l :set list!<CR> " Shortcut to rapidly toggle `set list`
-set listchars=tab:▸\ ,eol:¬ " Use the same symbols as TextMate for tabstops and EOLs
-
-" Toggle Showing and Hiding WHitespace characters                                                                                                                                                                                           
-nmap <leader>l :set list!<CR> " Shortcut to rapidly toggle `set list`
-set listchars=tab:▸\ ,eol:¬ " Use the same symbols as TextMate for tabstops and EOLs
 
 """""""""""""""""""
 " Keyboard {{{1
 
 " change <Leader> from default '\' to home-row-friendly ';'
 let mapleader = ";"
+
+" Toggle Showing and Hiding WHitespace characters
+nmap <leader>l :set list!<CR> " Shortcut to rapidly toggle `set list`
+set listchars=tab:▸\ ,eol:¬ " Use the same symbols as TextMate for tabstops and EOLs
 
 " arrow keys navigate splits in normal mode; use hjkl for movement.
 "nmap <Up> <C-W><Up>

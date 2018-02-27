@@ -37,3 +37,21 @@
 [submodule "pack/pda/start/jellybeans"]
 	path = pack/pda/start/jellybeans
 	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "pack/pda/start/neomake"]
+	path = pack/pda/start/neomake
+	url = https://github.com/neomake/neomake
+[submodule "pack/pda/start/deoplete"]
+	path = pack/pda/start/deoplete
+	url = https://github.com/shougo/deoplete.nvim
+[submodule "pack/pda/start/vim-polyglot"]
+	path = pack/pda/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "pack/pda/start/deoplete-jedi"]
+	path = pack/pda/start/deoplete-jedi
+	url = https://github.com/zchee/deoplete-jedi
+[submodule "pack/pda/start/nvim-neosolarized"]
+	path = pack/pda/start/nvim-neosolarized
+	url = https://github.com/icymind/NeoSolarized.git
+[submodule "pack/pda/start/vim-tmux-navigator"]
+	path = pack/pda/start/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
